@@ -1,0 +1,5 @@
+nome=input ('qual e o seu nome otario?')
+idade=input ('quantos anos se tem?')
+peso= input('qual seu peso?')
+time=input('qual time voce torce?')
+print (nome,idade,peso,time)
